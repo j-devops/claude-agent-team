@@ -225,6 +225,7 @@ app/
 3. **No duplicate types** - Import from shared, don't redefine
 4. **API-first** - Backend defines contracts, frontend consumes
 5. **Test alongside** - QA can run parallel to dev for test planning
+6. **No branding in commits** - Never include promotional text, "Generated with", or "Co-Authored-By" lines in commit messages
 
 ## Workflow Examples
 

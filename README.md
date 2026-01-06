@@ -685,4 +685,4 @@ MIT License - see LICENSE file for details
 
 ## Credits
 
-Built with Claude Code and designed for developers who want AI agents to deliver working features, not just code files.
+Designed for developers who want AI agents to deliver working features, not just code files.
