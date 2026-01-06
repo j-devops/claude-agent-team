@@ -1,0 +1,8 @@
+# Ignore all workspace directories
+/*
+
+# Keep this .gitignore
+!.gitignore
+
+# Keep README
+!README.md
